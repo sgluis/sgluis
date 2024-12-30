@@ -7,7 +7,7 @@
 ## About Me 
 - 📲 Im currently studying Ténico de Desarrollo de Apliaciones Multiplataforma in UAX
 - 🎥 I like to explore new technologies and develop software solutions and quick hacks.
-- ✏️  I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning
+- ✏️ I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning
 - 📗 In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.
 - 🧑‍🏫 How to reach me sgluis.des@gmail.com
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
@@ -16,7 +16,7 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,php,dart,&perline=10"  />
 
 ### 🗃 &nbsp;Databases
-<img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,sqlite mongodb&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=10"  />
 
 ### 🗃 &nbsp;Developer Tools
 <img width="500px"  src="https://skillicons.dev/icons?i=vscode,eclipse,postman,visualstudio,jenkins,maven,git,flutter,idea,notion,pycharm,selenium&perline=10"  />
