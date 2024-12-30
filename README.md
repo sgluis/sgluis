@@ -19,7 +19,7 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,sqlite mongodb&perline=10"  />
 
 ### 🗃 &nbsp;Developer Tools
-<img width="500px"  src="https://skillicons.dev/icons?i=vscode,eclipse,postman,visualstudio,jenkins,maven,git&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=vscode,eclipse,postman,visualstudio,jenkins,maven,git,flutter,idea,notion,pycharm,selenium&perline=10"  />
 
 ### 🗃 &nbsp;Platforms & Clouds
 <img width="500px"  src="https://skillicons.dev/icons?i=azure,aws&perline=10"  />
