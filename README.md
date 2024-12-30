@@ -4,15 +4,13 @@
 <h3 align="center">A passionate Mobile App Developer from Granada, Spain</h3>
 <img alt="PhotoProfile" src="./assets/portada1.png" />
 
-## Título del Proyecto
 ## About Me 
 - 📲 Im currently studying Ténico de Desarrollo de Apliaciones Multiplataforma in UAX
 - 🎥 I like to explore new technologies and develop software solutions and quick hacks.
 - ✏️  I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning
 - 📗 In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.
 - 🧑‍🏫 How to reach me sgluis.des@gmail.com
-- 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 
 ## 🛠 &nbsp; TECH STACK
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -71,25 +69,6 @@ Breve descripción del proyecto, objetivos y funcionalidades principales.
 [![Expo](https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%2361DAFB&labelColor=101010)](#)
 
 
-## Instalación
+## My Last Projects
 Instrucciones para instalar y configurar el proyecto.
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
-## Licencia
-Licencia bajo la cual se distribuye el proyecto.
-<!--
-**sgluis/sgluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
