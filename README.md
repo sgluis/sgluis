@@ -1,7 +1,11 @@
 ### Hi, I`m Luis Salcedo García 👋
 # Título del Proyecto
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](assets/portada1.png)
 ## Descripción
+📱Desarrollador de Aplicaciones Multiplataforma
+📝
+📚
+💻
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
 - Característica 1
