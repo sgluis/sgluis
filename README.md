@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I`m Luis Salcedo García 👋</h1>
 </div>
-<h3 align="center">A passionate Mobile App Developer from Granada, Spain</h3>
+<h3 align="center">A passionate Cross-Platform Development from Granada, Spain</h3>
 <img alt="PhotoProfile" src="./assets/portada1.png" />
 
 ## About Me 
