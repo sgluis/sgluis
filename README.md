@@ -7,8 +7,8 @@
 ## About Me 
 - 📲 Im currently studying Ténico de Desarrollo de Apliaciones Multiplataforma in UAX
 - 🎥 I like to explore new technologies and develop software solutions and quick hacks.
-- ✏️ I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning
-- 📗 In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.
+- ✏️ I'm always on track for learning new technologies and improve my working skills.
+- 📗 In my free time, I like to write about cats in my own website🐱 <a href="https://entrebigotes.es/" target="_blank">Entrebigotes</a>
 - 🧑‍🏫 How to reach me sgluis.des@gmail.com
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 
@@ -33,7 +33,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:sgluis.des@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=sgluis.des@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 </div>
