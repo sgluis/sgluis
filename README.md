@@ -13,19 +13,19 @@
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 
 ## 🛠 &nbsp; Programming Languages
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,php,dart,&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,php&perline=10"  />
 
 ### 🗃 &nbsp;Databases
 <img width="500px"  src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=10"  />
 
 ### 🗃 &nbsp;Developer Tools
-<img width="500px"  src="https://skillicons.dev/icons?i=vscode,eclipse,postman,visualstudio,jenkins,maven,git,flutter,idea,notion,pycharm,selenium&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,maven,git,flutter,idea,notion,pycharm,selenium&perline=10"  />
 
 ### 🗃 &nbsp;Platforms & Clouds
 <img width="500px"  src="https://skillicons.dev/icons?i=azure,aws&perline=10"  />
 
 ### 🧰 &nbsp;FRAMEWORK
-<img width="500px"  src="https://skillicons.dev/icons?i=angular,react,spring,hibernate,vue,express,nodejs,bootstrap,pinia&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=angular,react,spring,hibernate&perline=10"  />
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
