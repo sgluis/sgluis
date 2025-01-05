@@ -39,5 +39,21 @@
 </div>
 
 ## My Last Projects
-Instrucciones para instalar y configurar el proyecto.
+
+### [Weather App](https://github.com/sgluis/AppWeather)
+An app that displays weather forecasts using the OpenWeatherMap API. Users can check the current weather and see a short-term forecast for any city.
+
+#### Features:
+- Current weather data: temperature, humidity, wind speed.
+- Short-term forecast for up to 5 days.
+- Easy-to-read interface.
+
+  ---
+### [IMC Calculator App](https://github.com/sgluis/AppIMC)
+A mobile app that calculates the Body Mass Index (IMC) based on user input (weight and height). It provides health-related insights based on the result.
+
+#### Features:
+- Simple interface for calculating IMC.
+- Provides health categories (underweight, normal weight, overweight, etc.).
+- Easy to use and fast.
 
