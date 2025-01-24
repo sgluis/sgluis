@@ -10,7 +10,7 @@
 - ✏️ I'm always on track for learning new technologies and improve my working skills.
 - 📗 In my free time, I like to write about cats in my own website🐱 <a href="https://entrebigotes.es/" target="_blank">Entrebigotes</a>
 - 🧑‍🏫 How to reach me sgluis.des@gmail.com
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [CV](https://kiran1689.github.io) for more details about me.
 
 ## 🛠 &nbsp; Programming Languages
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,kotlin,js,cs,html,css,php&perline=10"  />
